@@ -27,9 +27,17 @@ from dotenv import load_dotenv
 
 ## Example
 
-This image shows the Monte Carlo Simulation over 10 years for a split of 20% to AGG and 80% to SPY. The first plot shows all the possible results in a plot, and the next plot shows the distribution of those results.
+This image shows how an ineractive plot was generated that displays sales price per square foot and average gross rent in SF from 2010-2016.
 
-![monte_carlo.png](monte_carlo.png)
+![module_5_example1.png](module_5_example1.png)
+
+The following image shows a plot that allows you to dig deeper on price and rent changes and select a specific neighboorhood in SF.
+
+![module_5_example2.png](module_5_example2.png)
+
+This final image displays the visualization that we were able to generate through Mapbox API. The different colored circles represent different rent costs for different neighboorhoods.
+
+![module_5_example3.png](module_5_example3.png)
 
 ---
 
